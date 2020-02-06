@@ -1,0 +1,285 @@
+[2020-02-03 10:19:19,404] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 10:19:20,049] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:20,050] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:20,405] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 10:19:20,406] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 10:19:22,586] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:22,590] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:24,413] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:24,413] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:26,277] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:26,277] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:28,966] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:28,966] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:31,612] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:31,613] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:34,379] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:19:34,379] rwamw031831/INFO/stdout: 
+[2020-02-03 10:19:35,673] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+[2020-02-03 10:19:35,673] rwamw031831/ERROR/stderr: 
+[2020-02-03 10:19:35,673] rwamw031831/ERROR/stderr: File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\gevent\_ffi\loop.py", line 235, in python_check_callback
+    def python_check_callback(self, watcher_ptr): # pylint:disable=unused-argument
+[2020-02-03 10:19:35,673] rwamw031831/ERROR/stderr: 
+[2020-02-03 10:19:35,673] rwamw031831/ERROR/stderr: KeyboardInterrupt
+[2020-02-03 10:19:35,673] rwamw031831/ERROR/stderr: 
+[2020-02-03 10:19:35,674] rwamw031831/ERROR/stderr: 2020-02-03T09:19:35Z
+[2020-02-03 10:19:35,674] rwamw031831/ERROR/stderr: 
+[2020-02-03 10:19:35,674] rwamw031831/INFO/locust.main: Shutting down (exit code 0), bye.
+[2020-02-03 10:19:35,674] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 10:19:35,674] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 10:21:25,011] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 10:21:25,627] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:21:25,628] rwamw031831/INFO/stdout: 
+[2020-02-03 10:21:26,011] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 10:21:26,012] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 10:21:26,015] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 10:21:29,036] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:21:29,037] rwamw031831/INFO/stdout: 
+[2020-02-03 10:21:31,011] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 10:21:31,011] rwamw031831/INFO/locust.main: Shutting down (exit code 0), bye.
+[2020-02-03 10:21:31,012] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 10:21:31,012] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 10:25:11,619] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 10:25:12,307] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:25:12,307] rwamw031831/INFO/stdout: 
+[2020-02-03 10:25:12,309] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 38, in get_pet_by_id
+    print(resp.text["id"])
+TypeError: string indices must be integers
+[2020-02-03 10:25:12,620] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 10:25:12,620] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 10:25:12,620] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 10:25:15,625] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:25:15,625] rwamw031831/INFO/stdout: 
+[2020-02-03 10:25:15,627] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 38, in get_pet_by_id
+    print(resp.text["id"])
+TypeError: string indices must be integers
+[2020-02-03 10:25:17,621] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 10:25:17,624] rwamw031831/INFO/locust.main: Shutting down (exit code 1), bye.
+[2020-02-03 10:25:17,624] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 10:25:17,624] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 10:28:52,711] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 10:28:53,342] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:28:53,342] rwamw031831/INFO/stdout: 
+[2020-02-03 10:28:53,345] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 38, in get_pet_by_id
+    pet_id = resp.text["id"]
+TypeError: string indices must be integers
+[2020-02-03 10:28:53,712] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 10:28:53,713] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 10:28:53,713] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 10:28:56,082] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 10:28:56,082] rwamw031831/INFO/stdout: 
+[2020-02-03 10:28:56,084] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 38, in get_pet_by_id
+    pet_id = resp.text["id"]
+TypeError: string indices must be integers
+[2020-02-03 10:28:58,713] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 10:28:58,713] rwamw031831/INFO/locust.main: Shutting down (exit code 1), bye.
+[2020-02-03 10:28:58,713] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 10:28:58,713] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 11:02:50,418] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 11:02:50,807] rwamw031831/INFO/stdout: 
+[2020-02-03 11:02:50,808] rwamw031831/INFO/stdout: 
+[2020-02-03 11:02:50,811] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"])
+TypeError: string indices must be integers
+[2020-02-03 11:02:51,419] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 11:02:51,420] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 11:02:51,428] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 11:02:53,608] rwamw031831/INFO/stdout: 
+[2020-02-03 11:02:53,608] rwamw031831/INFO/stdout: 
+[2020-02-03 11:02:53,610] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"])
+TypeError: string indices must be integers
+[2020-02-03 11:02:55,013] rwamw031831/INFO/stdout: 
+[2020-02-03 11:02:55,013] rwamw031831/INFO/stdout: 
+[2020-02-03 11:02:55,016] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"])
+TypeError: string indices must be integers
+[2020-02-03 11:02:56,419] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 11:02:56,419] rwamw031831/INFO/locust.main: Shutting down (exit code 1), bye.
+[2020-02-03 11:02:56,419] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 11:02:56,420] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 11:03:09,393] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 11:03:10,031] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:03:10,031] rwamw031831/INFO/stdout: 
+[2020-02-03 11:03:10,035] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"])
+TypeError: string indices must be integers
+[2020-02-03 11:03:10,393] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 11:03:10,393] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 11:03:10,403] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 11:03:12,614] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:03:12,614] rwamw031831/INFO/stdout: 
+[2020-02-03 11:03:12,615] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"])
+TypeError: string indices must be integers
+[2020-02-03 11:03:14,605] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:03:14,605] rwamw031831/INFO/stdout: 
+[2020-02-03 11:03:14,606] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"])
+TypeError: string indices must be integers
+[2020-02-03 11:03:15,394] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 11:03:15,397] rwamw031831/INFO/locust.main: Shutting down (exit code 1), bye.
+[2020-02-03 11:03:15,398] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 11:03:15,398] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 11:04:36,261] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 11:04:36,909] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:04:36,910] rwamw031831/INFO/stdout: 
+[2020-02-03 11:04:36,910] rwamw031831/INFO/stdout: 21435431255389
+[2020-02-03 11:04:36,910] rwamw031831/INFO/stdout: 
+[2020-02-03 11:04:37,261] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 11:04:37,261] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 11:04:37,270] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 11:04:39,973] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:04:39,973] rwamw031831/INFO/stdout: 
+[2020-02-03 11:04:39,973] rwamw031831/INFO/stdout: 21435431255389
+[2020-02-03 11:04:39,973] rwamw031831/INFO/stdout: 
+[2020-02-03 11:04:41,781] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:04:41,781] rwamw031831/INFO/stdout: 
+[2020-02-03 11:04:41,781] rwamw031831/INFO/stdout: 21435431255389
+[2020-02-03 11:04:41,782] rwamw031831/INFO/stdout: 
+[2020-02-03 11:04:42,261] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 11:04:42,266] rwamw031831/INFO/locust.main: Shutting down (exit code 0), bye.
+[2020-02-03 11:04:42,267] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 11:04:42,267] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 11:16:52,172] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 11:16:52,816] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:16:52,816] rwamw031831/INFO/stdout: 
+[2020-02-03 11:16:52,820] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"]["name"])
+TypeError: 'int' object is not subscriptable
+[2020-02-03 11:16:53,174] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 11:16:53,174] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 11:16:53,182] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 11:16:55,337] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:16:55,337] rwamw031831/INFO/stdout: 
+[2020-02-03 11:16:55,339] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"]["name"])
+TypeError: 'int' object is not subscriptable
+[2020-02-03 11:16:58,166] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:16:58,166] rwamw031831/INFO/stdout: 
+[2020-02-03 11:16:58,169] rwamw031831/ERROR/stderr: Traceback (most recent call last):
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 394, in run
+    self.execute_next_task()
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 424, in execute_next_task
+    self.execute_task(task["callable"], *task["args"], **task["kwargs"])
+  File "c:\users\liwinskm\pycharmprojects\locust_training\venv\lib\site-packages\locust\core.py", line 436, in execute_task
+    task(self, *args, **kwargs)
+  File "C:\Users\liwinskm\PycharmProjects\locust_training\locustfile.py", line 39, in get_pet_by_id
+    print(pet_id["id"]["name"])
+TypeError: 'int' object is not subscriptable
+[2020-02-03 11:16:58,173] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 11:16:58,176] rwamw031831/INFO/locust.main: Shutting down (exit code 1), bye.
+[2020-02-03 11:16:58,176] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 11:16:58,177] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 11:18:11,070] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 11:18:11,740] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:18:11,740] rwamw031831/INFO/stdout: 
+[2020-02-03 11:18:11,741] rwamw031831/INFO/stdout: aaa
+[2020-02-03 11:18:11,741] rwamw031831/INFO/stdout: 
+[2020-02-03 11:18:12,071] rwamw031831/INFO/locust.main: Run time limit set to 5 seconds
+[2020-02-03 11:18:12,071] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 11:18:12,079] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 11:18:14,934] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:18:14,935] rwamw031831/INFO/stdout: 
+[2020-02-03 11:18:14,935] rwamw031831/INFO/stdout: aaa
+[2020-02-03 11:18:14,935] rwamw031831/INFO/stdout: 
+[2020-02-03 11:18:17,071] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 11:18:17,071] rwamw031831/INFO/locust.main: Shutting down (exit code 0), bye.
+[2020-02-03 11:18:17,071] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 11:18:17,071] rwamw031831/INFO/locust.main: Running teardowns...
+[2020-02-03 11:18:44,797] rwamw031831/INFO/locust.runners: Hatching and swarming 1 clients at the rate 1 clients/s...
+[2020-02-03 11:18:45,388] rwamw031831/INFO/stdout: {"id":21435431255389,"category":{"id":0,"name":"string"},"name":"aaa","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+[2020-02-03 11:18:45,388] rwamw031831/INFO/stdout: 
+[2020-02-03 11:18:45,388] rwamw031831/INFO/stdout: 0
+[2020-02-03 11:18:45,389] rwamw031831/INFO/stdout: 
+[2020-02-03 11:18:45,797] rwamw031831/INFO/locust.main: Run time limit set to 3 seconds
+[2020-02-03 11:18:45,797] rwamw031831/INFO/locust.main: Starting Locust 0.13.5
+[2020-02-03 11:18:45,806] rwamw031831/INFO/locust.runners: All locusts hatched: WebsiteUser: 1
+[2020-02-03 11:18:48,798] rwamw031831/INFO/locust.main: Time limit reached. Stopping Locust.
+[2020-02-03 11:18:48,799] rwamw031831/INFO/locust.main: Shutting down (exit code 0), bye.
+[2020-02-03 11:18:48,799] rwamw031831/INFO/locust.main: Cleaning up runner...
+[2020-02-03 11:18:48,799] rwamw031831/INFO/locust.main: Running teardowns...
